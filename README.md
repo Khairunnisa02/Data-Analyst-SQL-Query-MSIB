@@ -1,5 +1,6 @@
 # Data-Analyst-SQL-Query-MSIB
-# SQL Learning – MSIB Data Analytics  
+
+## SQL Learning – MSIB Data Analytics  
 
 Repository ini berisi kumpulan query SQL yang saya pelajari selama mengikuti program **MSIB Data Analytics**.  
 
